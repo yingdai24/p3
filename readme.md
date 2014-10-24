@@ -1,25 +1,26 @@
-## Laravel PHP Framework
+# Project 3 for CSCI E-15 Dynamic Web Applications
 
-[![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
-[![Total Downloads](https://poser.pugx.org/laravel/framework/downloads.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
-[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
+----
+## Live URL
+[http://p3.ydai.me](http://p3.ydai.me)
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, and caching.
+----
+## Description
+This web application (Developer's Best Friend) includes a Lorem Ipsum Generator and a Random User Generator:
+1. Lorem Ipsum Generator can be used to generate 1~9 random random lorem-ipsum paragraphs.
 
-Laravel aims to make the development process a pleasing one for the developer without sacrificing application functionality. Happy developers make the best code. To this end, we've attempted to combine the very best of what we have seen in other web frameworks, including frameworks implemented in other languages, such as Ruby on Rails, ASP.NET MVC, and Sinatra.
+2. Random User Generator can be used to generate 1~9 random users' profile including name, birthdate, phone, email, address, and a short biosketch, etc.
 
-Laravel is accessible, yet powerful, providing powerful tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
+----
+## Demo
+Please watch the Jing screencast video here http://screencast.com/t/3SURl2y3Jy
 
-## Official Documentation
+----
+## Details for teaching team
+No login required.
 
-Documentation for the entire framework can be found on the [Laravel website](http://laravel.com/docs).
-
-### Contributing To Laravel
-
-**All issues and pull requests should be filed on the [laravel/framework](http://github.com/laravel/framework) repository.**
-
-### License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+----
+## Outside code
+1. For lorem ipsum text, I use a Package from [https://packagist.org/packages/badcow/lorem-ipsum](badcow/lorem-ipsum)
+2. For random users, I use a Package from [https://packagist.org/packages/fzaninotto/faker](fzaninotto/faker)
+3. Logo image is downloaded from http://wimleers.com/talk-practical-wpo-intro-2013/img/best-friends.gif
