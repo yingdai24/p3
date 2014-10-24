@@ -6,14 +6,12 @@
 
 ----
 ## Description
-This web application (Developer's Best Friend) includes a Lorem Ipsum Generator and a Random User Generator:
-1. Lorem Ipsum Generator can be used to generate 1~9 random random lorem-ipsum paragraphs.
-
-2. Random User Generator can be used to generate 1~9 random users' profile including name, birthdate, phone, email, address, and a short biosketch, etc.
+This web application (Developer's Best Friend) includes a Lorem Ipsum Generator and a Random User Generator: (1) Lorem Ipsum Generator can be used to generate 1~9 random random lorem-ipsum paragraphs; (2) Random User Generator can be used to generate 1~9 random users' profile including name, birthdate, phone, email, address, and a short biosketch, etc.
 
 ----
 ## Demo
 Please watch the Jing screencast video here http://screencast.com/t/zSDWfX116
+
 ----
 ## Details for teaching team
 No login required.
