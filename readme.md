@@ -13,8 +13,7 @@ This web application (Developer's Best Friend) includes a Lorem Ipsum Generator 
 
 ----
 ## Demo
-Please watch the Jing screencast video here http://screencast.com/t/3SURl2y3Jy
-
+Please watch the Jing screencast video here http://screencast.com/t/zSDWfX116
 ----
 ## Details for teaching team
 No login required.
